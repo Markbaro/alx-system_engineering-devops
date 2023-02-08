@@ -1,1 +1,1 @@
-/tmp/ directory
+user’s home directory
