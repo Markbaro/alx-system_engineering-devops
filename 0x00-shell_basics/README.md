@@ -1,1 +1,1 @@
-hidden files
+/tmp/ directory
