@@ -1,1 +1,1 @@
-iamafile
+symbolic link
