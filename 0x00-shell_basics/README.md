@@ -1,1 +1,1 @@
-user’s home directory
+current directory contents
