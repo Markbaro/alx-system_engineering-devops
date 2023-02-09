@@ -1,1 +1,1 @@
-mirror
+directory
