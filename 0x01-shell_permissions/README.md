@@ -1,1 +1,1 @@
-switch current user
+shell permissions
