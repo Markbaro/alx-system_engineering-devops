@@ -1,1 +1,1 @@
-lastline
+fast 10
